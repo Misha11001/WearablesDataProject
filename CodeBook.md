@@ -13,7 +13,7 @@ The column `Activity_Name` describes the activity performed by the subject. The 
 - LAYING
 
 The remaining 79 variables contain a calculated mean on the mean and standard deviation for each measurement. 
-For more detailed info on the fatures and the experiment, please refer to the following from the original data set:
+For more detailed info on the features and the experiment, please refer to the following from the original data set:
 
 - `features_info.txt` 
 - `Readme.txt` 
