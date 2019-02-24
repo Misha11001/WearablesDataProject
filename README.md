@@ -1,5 +1,5 @@
 # WearablesDataProject
-This repository contains the submissions for the Getting and Cleaning Data Course Project.
+This repository contains the submissions for the `Getting and Cleaning Data Course Project`.
 
 # Contents
 - `run.analysis.r` --> a script for running the analysis
